@@ -1,7 +1,7 @@
 package UE13;
 
 /**
- * BMI Calculator with feedback.
+ * BMI Calculator with feedback. Happy testing.
  */
 
 import java.util.ArrayList;
