@@ -1,7 +1,7 @@
 package UE13;
 
 /**
- * BMI Calculator with feedback. Stored as repository with GitHub.
+ * BMI Calculator with feedback. Stored as repository with GitHub. Yeah.
  */
 
 import java.util.ArrayList;
